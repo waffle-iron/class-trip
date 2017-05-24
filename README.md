@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/g-r-e-g/class-trip.png?label=ready&title=Ready)](https://waffle.io/g-r-e-g/class-trip?utm_source=badge)
 <<<<<<< HEAD
 This project was bootstrapped with [Create React Native App](https://github.com/react-community/create-react-native-app).
 
